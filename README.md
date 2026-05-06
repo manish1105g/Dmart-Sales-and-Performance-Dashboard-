@@ -1,4 +1,5 @@
-# 📊 Power BI Dashboard Project
+#Dmart-Sales-and-Performance-Dashboard
+## 📊 Power BI Dashboard Project
 
 ## 📌 Project Overview
 
